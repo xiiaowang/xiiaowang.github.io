@@ -5,9 +5,11 @@ description: I am doing research in machine learning
 keywords: machine learning, geometry
 ---
 <h4><a name="Education & Work"></a>Education & Work</h4>
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
-
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+<ul>
+    <li>STD</li>
+    <li>Buf</li>
+    <li>UD</li>
+</ul>
 
 
 ---
