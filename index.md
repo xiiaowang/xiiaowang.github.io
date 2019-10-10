@@ -15,6 +15,7 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
 <div class="container">
     <h4><a name="News"></a>News</h4>
+    $\sum$
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
