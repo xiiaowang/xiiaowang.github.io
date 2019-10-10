@@ -6,21 +6,29 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Education & Work"></a>Education & Work</h4>
 <ul>
-    <li>STD</li>
+    <li>SD</li>
     <li>Buf</li>
     <li>UD</li>
 </ul>
-
+<h4><a name="Research Interests"></a>Research Interests</h4>
 
 ---
 
 
 <div class="container">
     <h4><a name="News"></a>News</h4>
-    "Geometry,"
+    <ul>
+        <li>Geometry,</li>
+        <li>NeurIPS</li>
+        <li>MWU</li>
+    </ul>
+            
     <h4><a name="Service"></a>Service</h4>
+    <ul>
+        <li>Conference Review: ICML,WINE,ISAAC</li>
+    </ul>
    
-<h4><a name="Contact"></a>Contact</h4>
+<h4><a name="Email"></a>Email</h4>
 
     <div class="row-fluid">
         <div class="span5">
