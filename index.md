@@ -15,7 +15,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
 <div class="container">
     <h4><a name="News"></a>News</h4>
-    $\sum$
+    "Geometry,"
+   
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
@@ -32,11 +33,4 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
     </div>
 </div>
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>      
-      </ul>
-  </div>
-</div>
+
