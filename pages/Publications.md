@@ -7,7 +7,10 @@
 ---
 <h4><a name="Working & Submitted"></a>Working & Submitted</h4>
 <ul>
-    <li>Kazhdan's property (T) and structure for locally symmetric spaces. (Submitted) [PDF]({{ BASE_PATH }}/assets/main.pdf)<br/></li>
+    <li>Kazhdan's property (T) and structure for locally symmetric spaces. (Submitted)</li>
+    
 </ul>
+[PDF]({{ BASE_PATH }}/assets/main.pdf)<br/>
+
 
 
