@@ -10,4 +10,4 @@
     <li>Kazhdan</li>
 </ul>
 
-[curriculum vitae ![CV as pdf]]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+[CV]({{ BASE_PATH }}/assets/CV.pdf)<br/>
