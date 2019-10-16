@@ -6,9 +6,9 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Employment"></a>Employment</h4>
 <ul>
-    <li>Postdoc Research Fellow, SUTD, PI:Georgios Piliouras</br>
+    <li>Postdoc Research Fellow, SUTD, PI:Georgios Piliouras<br/>
      02/2018-Present</li>
-    <li>Adjunct Instructor of Math Department, University at Buffalo, SUNY</br> 
+    <li>Adjunct Instructor of Math Department, University at Buffalo, SUNY<br/> 
         08/2014-08/2017</li>
 </ul>
 
