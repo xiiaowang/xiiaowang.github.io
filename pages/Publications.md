@@ -11,6 +11,7 @@
     
 </ol>
 [PDF]({{ BASE_PATH }}/assets/main.pdf)
+1. Kazhdan's property (T) and structure for locally symmetric spaces [PDF]({{ BASE_PATH }}/assets/main.pdf)
 
 
 
