@@ -1,7 +1,7 @@
 
 <h4><a name="Conferences & Proceedings"></a>Conferences & Proceedings</h4>
 
-   1. NeurIPS [Caption](https://example.com)</br>
+   1. NeurIPS [Caption](https://example.com)
    2. ICML
    
 ---
