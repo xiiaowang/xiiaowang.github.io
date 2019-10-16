@@ -16,7 +16,13 @@ keywords: machine learning, geometry
 
 <h4><a name="Education"></a>Education & Work</h4>
 <ul>
-    <li>Buf</li>
+    <li>Ph.D in Mathematics, University at Buffalo, SUNY<br/>
+        2010-2017
+        <ul>
+            <li>Subject: Differential Geometry, Locally Symmetric Spaces</li>
+            <li>Advisor: Mohan Ramachandran</li>
+            <li>Dissertation: Complex hyperbolic manifolds and structure of exotic hyperbolic manifolds</li>
+        </ul></li>
     <li>UD</li>
 </ul>
 <h4><a name="Research Interests"></a>Research Interests</h4>
