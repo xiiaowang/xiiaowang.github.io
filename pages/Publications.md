@@ -1,16 +1,15 @@
 
 <h4><a name="Conferences & Proceedings"></a>Conferences & Proceedings</h4>
-<ul>
-    <li>NeurIPS [Caption]: https://example.com</li>
-    <li>ICML</li>
-</ul>
+1. NeurIPS [Caption](https://example.com)
+2. ICML
 ---
 <h4><a name="Working & Submitted"></a>Working & Submitted</h4>
-<ol>
-    <li>[PDF]({{ BASE_PATH }}/assets/main.pdf) Kazhdan's property (T) and structure for locally symmetric spaces. </li>
+
+#<ol>
+#    <li>[PDF]({{ BASE_PATH }}/assets/main.pdf) Kazhdan's property (T) and structure for locally symmetric spaces. </li>
     
-</ol>
-[PDF]({{ BASE_PATH }}/assets/main.pdf)
+#</ol>
+
 1. Kazhdan's property (T) and structure for locally symmetric spaces [PDF]({{ BASE_PATH }}/assets/main.pdf)
 
 
