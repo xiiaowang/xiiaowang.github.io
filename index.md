@@ -16,14 +16,13 @@ keywords: machine learning, geometry
 
 <h4><a name="Education"></a>Education & Work</h4>
 <ul>
-    <li>Ph.D in Mathematics, University at Buffalo, SUNY<br/>
-        2010-2017
+    <li>Ph.D in Mathematics, University at Buffalo, SUNY, 2010-2017<br/>
         <ul>
             <li>Subject: Differential Geometry, Locally Symmetric Spaces</li>
             <li>Advisor: Mohan Ramachandran</li>
             <li>Dissertation: Complex hyperbolic manifolds and structure of exotic hyperbolic manifolds</li>
         </ul></li>
-    <li>UD</li>
+    <li>B.S. in Geophysics, China University of Geosciences, 2005-2009</li>
 </ul>
 <h4><a name="Research Interests"></a>Research Interests</h4>
 <ul>
@@ -37,8 +36,8 @@ keywords: machine learning, geometry
 <div class="container">
     <h4><a name="News"></a>News</h4>
     <ul>
-        <li>Geometry,</li>
-        <li>NeurIPS</li>
+        <li>"Geometry, topology and game theory", Research Jam, SUTD, 09/25/2019</li>
+        <li>"First-order methods avoid saddle points:the case for vanishing stepsize" co-authored with Ioannis Panageas and Georgios Piliouras, accepted by NeurIPS 2019</li>
         <li>MWU</li>
     </ul>
             
