@@ -4,13 +4,26 @@ title: X W
 description: I am doing research in machine learning  
 keywords: machine learning, geometry
 ---
-<h4><a name="Education & Work"></a>Education & Work</h4>
+<h4><a name="Employment"></a>Employment</h4>
 <ul>
-    <li>SD</li>
+    <li>Postdoc Research Fellow, SUTD, PI:Georgios Piliouras
+     02/2018-Present</li>
+    <li>Adjunct Instructor of Math Department, University at Buffalo, SUNY 
+        08/2014-08/2017</li>
+</ul>
+
+---
+
+<h4><a name="Education"></a>Education & Work</h4>
+<ul>
     <li>Buf</li>
     <li>UD</li>
 </ul>
 <h4><a name="Research Interests"></a>Research Interests</h4>
+<ul>
+    <li>Machine Learning & Optimization</li>
+    <li>Differential Geometry</li>
+</ul>
 
 ---
 
