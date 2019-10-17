@@ -9,20 +9,20 @@ keywords: machine learning, geometry
 
 ---
 
-<h4><a name="Education"></a>Education & Work</h4>
-<ul>
-    <li>Postdoc Research Fellow, Singapore University of Technology and Design, PI: Georgios Piliouras<br/>
-     02/2018-Present</li>
-    <li>Instructor of Math Department, University at Buffalo, SUNY<br/> 
-        08/2014-08/2017</li>
-    <li>Ph.D in Mathematics, University at Buffalo, SUNY, 2010-2017<br/>
-        <ul>
-            <li>Subject: Differential Geometry, Locally Symmetric Spaces</li>
-            <li>Advisor: Mohan Ramachandran</li>
-            <li>Dissertation: Complex hyperbolic manifolds and structure of exotic hyperbolic manifolds</li>
-        </ul></li>
-    <li>B.S. in Geophysics, China University of Geosciences, 2005-2009</li>
-</ul>
+#<h4><a name="Education"></a>Education & Work</h4>
+#<ul>
+ #   <li>Postdoc Research Fellow, Singapore University of Technology and Design, PI: Georgios Piliouras<br/>
+  #   02/2018-Present</li>
+   # <li>Instructor of Math Department, University at Buffalo, SUNY<br/> 
+    #    08/2014-08/2017</li>
+    #<li>Ph.D in Mathematics, University at Buffalo, SUNY, 2010-2017<br/>
+     #   <ul>
+     #       <li>Subject: Differential Geometry, Locally Symmetric Spaces</li>
+     #       <li>Advisor: Mohan Ramachandran</li>
+     #       <li>Dissertation: Complex hyperbolic manifolds and structure of exotic hyperbolic manifolds</li>
+     #   </ul></li>
+    #<li>B.S. in Geophysics, China University of Geosciences, 2005-2009</li>
+#</ul>
 <h4><a name="Research Interests"></a>Research Interests</h4>
 <ul>
     <li>Machine Learning & Optimization</li>
