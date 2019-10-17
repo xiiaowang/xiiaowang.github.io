@@ -7,6 +7,12 @@ keywords: machine learning, geometry
 <h4><a name="Welcome"></a>Welcome</h4>
 
 ---
+
+<h4><a name="Research Interests"></a>Research Interests</h4>
+<ul>
+    <li>Machine Learning & Optimization</li>
+    <li>Differential Geometry</li>
+</ul>
 <!--
 #<h4><a name="Education"></a>Education & Work</h4>
 #<ul>
@@ -23,11 +29,6 @@ keywords: machine learning, geometry
 #<li>B.S. in Geophysics, China University of Geosciences, 2005-2009</li>
 #</ul>
 -->
-<h4><a name="Research Interests"></a>Research Interests</h4>
-<ul>
-    <li>Machine Learning & Optimization</li>
-    <li>Differential Geometry</li>
-</ul>
 
 ---
 
