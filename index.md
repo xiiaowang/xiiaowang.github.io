@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: X W
-description: I am doing research in machine learning  
+description:   
 keywords: machine learning, geometry
 ---
 <div class="container1">
