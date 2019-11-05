@@ -10,11 +10,11 @@ keywords: machine learning, geometry
 ---
 
 <div class="container2">
-<h4><a name="Research Interests"></a>Research Interests</h4>
+<h4><a name="Research Interests"></a>Research Interests
 <ul>
     <li>Machine Learning & Optimization</li>
     <li>Differential Geometry</li>
-</ul>
+</ul></h4>
 </div>
 <!--
 #<h4><a name="Education"></a>Education & Work</h4>
