@@ -7,21 +7,13 @@ keywords: machine learning, geometry
 
     
 <div class="container1">
-    <h4><a name="Welcome"></a>Welcome</h4>
+    <h4><a name="Welcome"></a>Welcome</h4><br/>
+    dd
+    <h4><a name="Email"></a>Contact</h4>
+    Email: @sutd.edu.sg<br/>
+    Address: 8 Somapah Rd, Singapore University of Technology and Design, Singapore 487372
 </div>
 
-<h4><a name="Email"></a>Contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">           
-            Email: @sutd.edu.sg<br/>
-        </div>
-        <div class="span5">
-        Address: 8 Somapah Rd, Singapore University of Technology and Design, Singapore 487372
-        </div>
-
-       
-    </div>
 ---
 
 <div class="container2">
