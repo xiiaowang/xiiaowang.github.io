@@ -12,7 +12,7 @@ keywords: machine learning, geometry
 <div class="container2">
 <h4><a name="Research Interests"></a>Research Interests</h4>
 <ul>
-    <li>Machine Learning & Optimization</li>
+    <li><font size="6">Machine Learning & Optimization</font></li>
     <li>Differential Geometry</li>
 </ul>
 </div>
