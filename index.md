@@ -4,7 +4,6 @@ title: X W
 description:   
 keywords: machine learning, geometry
 ---
-
     
 <div class="container1">
     <h4><a name="Welcome"></a>Welcome</h4>
