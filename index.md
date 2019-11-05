@@ -36,7 +36,7 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Conferences & Proceedings"></a>Conferences & Proceedings</h4>
 <ul>
-   <li> NeurIPS <a href="http://arxiv.org/abs/1906.07772">arxiv</a></li>
+   <li> First-order methods almost always avoid saddle points: the case of vanishing stepsize <br/> with Ioannis Panageas and Georgios Piliouras,<br/> accepted in NeurIPS 2019 <a href="http://arxiv.org/abs/1906.07772">arxiv</a></li>
    <li> ICML <a href="http://arxiv.org/abs/1810.05355">arxiv</a></li>
 </ul>   
 ---
@@ -45,13 +45,14 @@ keywords: machine learning, geometry
    1. Kazhdan's property (T) and structure for locally symmetric spaces [PDF]({{ BASE_PATH }}/assets/main.pdf)
 
 <div class="container">
+    <!--
     <h4><a name="News"></a>News</h4>
     <ul>
         <li>"Geometry, topology and game theory", Research Jam, SUTD, 09/25/2019</li>
         <li>"First-order methods almost always avoid saddle points: the case of vanishing stepsize",<br/> with Ioannis Panageas and Georgios Piliouras,<br/> accepted in NeurIPS 2019</li>
         <li>"Multiplicative weights updates as a distributed constrained optimization algorithm: converges to second-order stationary points almost always",<br/>with Ioannis Panageas and Georgios Piliouras,<br/> accepted in ICML 2019</li>
     </ul>
-    
+    -->
             
    <h4><a name="Service"></a>Service</h4>
     <ul>
