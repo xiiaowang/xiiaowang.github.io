@@ -36,8 +36,8 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Conferences & Proceedings"></a>Conferences & Proceedings</h4>
 <ul>
-   <li> NeurIPS [arxiv](https://arxiv.org/abs/1906.07772)<a href="http://arxiv.org/abs/1906.07772">Visit Dev-HQ!</a></li>
-   <li>2. ICML [arxiv](https://arxiv.org/abs/1810.05355)</li>
+   <li> NeurIPS <a href="http://arxiv.org/abs/1906.07772">arxiv</a></li>
+   <li> ICML <a href="http://arxiv.org/abs/1810.05355">arxiv</a></li>
 </ul>   
 ---
 <h4><a name="Working & Submitted"></a>Working & Submitted</h4>
