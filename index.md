@@ -62,9 +62,8 @@ keywords: machine learning, geometry
 <h4><a name="Email"></a>Email</h4>
 
     <div class="row-fluid">
-        <div class="span5">
-            X W<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+        <div class="span5">           
+            Email: @sutd.edu.sg<br/>
         </div>
 
        
