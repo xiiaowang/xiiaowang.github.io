@@ -40,6 +40,8 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Conferences & Proceedings"></a>Conferences & Proceedings</h4>
 <ul>
+    <li> Depth-width Trade-offs for ReLU networks via Sharkovsky's Theorem, <br/> with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Ioannis Panageas,<br/> ICLR 2020 <a href="https://arxiv.org/abs/1912.04378">arxiv</a>.</li>
+    <br/>
    <li> First-order Methods Almost Always Avoid Saddle Points: the Case of Vanishing Stepsize, <br/> with Ioannis Panageas and Georgios Piliouras,<br/> NeurIPS 2019 <a href="http://arxiv.org/abs/1906.07772">arxiv</a>, <a href="https://www.dropbox.com/s/y25vze12a2lpivv/NIPS19_poster.pdf?dl=0">Poster</a>.</li>
     <br/>
    <li> Multiplicative Weights Update as a Distributed Constrained Optimization Algorithm: <br/> Converges to Second-order Stationary Points Almost Always, <br/>with Ioannis Panageas and Georgios Piliouras,<br/> ICML 2019<a href="http://arxiv.org/abs/1810.05355">arxiv</a>, <a href="https://www.dropbox.com/s/qs9nr6pgycnboy7/poster_ICML_xiao2.pdf?dl=0">Poster</a>, <a href="https://www.dropbox.com/s/fh9j5scf2kaofca/main%20copy.pdf?dl=0">Slides</a>.</li>
