@@ -40,7 +40,7 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publications</h4>
 <ul>
-    <li> Depth-width Trade-offs for ReLU networks via Sharkovsky's Theorem, <br/> with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Ioannis Panageas,<br/> <font color="maroon">ICLR spotlight 2020, </font> <a href="https://arxiv.org/abs/1912.04378">arXiv</a>, </a href="https://www.youtube.com/watch?v=HNQ204BmOQ8">Video</a> (speaker: Panageas, MiFODS Workshop).</li>
+    <li> Depth-width Trade-offs for ReLU networks via Sharkovsky's Theorem, <br/> with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Ioannis Panageas,<br/> <font color="maroon">ICLR spotlight 2020, </font> <a href="https://arxiv.org/abs/1912.04378">arXiv</a>, <a href="https://www.youtube.com/watch?v=HNQ204BmOQ8">Video</a> (speaker: Panageas, MiFODS Workshop).</li>
     <br/>
    <li> First-order Methods Almost Always Avoid Saddle Points: the Case of Vanishing Stepsize, <br/> with Ioannis Panageas and Georgios Piliouras,<br/> <font color="navy blue">NeurIPS 2019,</font> <a href="http://arxiv.org/abs/1906.07772">arXiv</a>, <a href="https://www.dropbox.com/s/y25vze12a2lpivv/NIPS19_poster.pdf?dl=0">Poster</a>.</li>
     <br/>
