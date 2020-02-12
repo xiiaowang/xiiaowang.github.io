@@ -14,7 +14,7 @@ keywords: machine learning, geometry
 ---
 
 <div class="container2">
-<h4><a name="Research Interests"></a>Research Interests</h4>
+<h4><a name="Research Topics"></a>Research Topics</h4>
 <ul>
     <li>Machine Learning</li>
     <li>Non-Convex Optimization</li>
