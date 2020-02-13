@@ -20,7 +20,9 @@ keywords: machine learning, geometry
     <li>Non-Convex Optimization</li>
     <li>Optimization on Manifolds</li>
     <li>Game Theory</li>
+    <!--
     <li>Differential Geometry</li>
+-->
 </ul>
 </div>
 <!--
