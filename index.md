@@ -6,7 +6,7 @@ keywords: machine learning, geometry
 ---
     
 <div class="container1">
-    <font color="black"><a name="Welcome"></a>Welcome</font>
+    <h4><a name="Welcome"></a>Welcome</h4>
     Email: @sutd.edu.sg<br/>
     Address: 8 Somapah Rd, Singapore University of Technology and Design, Singapore 487372
 </div>
@@ -14,7 +14,7 @@ keywords: machine learning, geometry
 ---
 
 <div class="container2">
-<font color="black"><a name="Research Topics"></a>Research Topics</font>
+<h4><a name="Research Topics"></a>Research Topics</h4>
 <ul>
     <li>Machine Learning</li>
     <li>Non-Convex Optimization</li>
@@ -47,7 +47,8 @@ keywords: machine learning, geometry
 <ul>
     <li> <font size="4" face="Georgia"><a href="https://arxiv.org/abs/1912.04378">Depth-width Trade-offs for ReLU networks via Sharkovsky's Theorem</a></font>, 
         <br/> <font size="3">with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Ioannis Panageas</font>,
-        <br/> <font size="3" color="maroon">ICLR spotlight 2020, </font> <!--<a href="https://arxiv.org/abs/1912.04378">arXiv</a>,--> <a href="https://www.youtube.com/watch?v=HNQ204BmOQ8">Video</a> (Speaker: Ioannis Panageas, MiFODS Workshop, MIT, Jan 27-29, 2020).</li>
+        <br/> <font size="3" color="maroon">ICLR spotlight 2020, </font> <!--<a href="https://arxiv.org/abs/1912.04378">arXiv</a>,--> <a href="https://www.youtube.com/watch?v=HNQ204BmOQ8">Video</a> (Speaker: Ioannis Panageas, MiFODS Workshop, MIT, Jan 27-29, 2020).
+    </li>
     <br/>
    <li> <font size="4" face="Georgia"><a href="http://arxiv.org/abs/1906.07772">First-order Methods Almost Always Avoid Saddle Points: the Case of Vanishing Stepsize</a></font>, 
        <br/> <font size="3">with Ioannis Panageas and Georgios Piliouras</font>,
@@ -56,8 +57,12 @@ keywords: machine learning, geometry
     <br/>
    <li> <font size="4" face="Georgia"><a href="http://arxiv.org/abs/1810.05355">Multiplicative Weights Update as a Distributed Constrained Optimization Algorithm: <br/> Converges to Second-order Stationary Points Almost Always</a></font>, 
        <br/><font size="3">with Ioannis Panageas and Georgios Piliouras</font>,
-       <br/> <font size="3" color="maroon">ICML 2019</font>, <!--<a href="http://arxiv.org/abs/1810.05355">arXiv</a>,--> <a href="https://www.dropbox.com/s/qs9nr6pgycnboy7/poster_ICML_xiao2.pdf?dl=0">Poster</a>, <a href="https://www.dropbox.com/s/fh9j5scf2kaofca/main%20copy.pdf?dl=0">Slides</a>.</li>
-    <li><a href="https://www.dropbox.com/s/oa26if49pnhpixz/main.pdf?dl=0">Kazhdan's property (T) and structure for locally symmetric spaces</a>, <br/> <font color="maroon">Submitted </font> </li>
+       <br/> <font size="3" color="maroon">ICML 2019</font>, <!--<a href="http://arxiv.org/abs/1810.05355">arXiv</a>,--> <a href="https://www.dropbox.com/s/qs9nr6pgycnboy7/poster_ICML_xiao2.pdf?dl=0">Poster</a>, <a href="https://www.dropbox.com/s/fh9j5scf2kaofca/main%20copy.pdf?dl=0">Slides</a>.
+    </li>
+    <br/>
+    <li><font size="4" face="Georgia"><a href="https://www.dropbox.com/s/oa26if49pnhpixz/main.pdf?dl=0">Kazhdan's property (T) and structure for locally symmetric spaces</a></font>, 
+        <br/> <font color="maroon">Submitted </font> 
+    </li>
 </ul>   
 ---
 <!--
