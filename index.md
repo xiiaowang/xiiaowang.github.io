@@ -15,11 +15,12 @@ keywords: machine learning, geometry
 
 <div class="container2">
 <h4><a name="Research Topics"></a>Research Topics</h4>
-<ul>
+<ul><font size="3" face="Georgia">
     <li>Machine Learning</li>
     <li>Non-Convex Optimization</li>
     <li>Optimization on Manifolds</li>
     <li>Game Theory</li>
+    </font>
     <!--
     <li>Differential Geometry</li>
 -->
