@@ -6,7 +6,7 @@ keywords: machine learning, geometry
 ---
     
 <div class="container1">
-    <h4><a name="Welcome"></a>Welcome</h4>
+    <font color="black"><a name="Welcome"></a>Welcome</font>
     Email: @sutd.edu.sg<br/>
     Address: 8 Somapah Rd, Singapore University of Technology and Design, Singapore 487372
 </div>
@@ -14,7 +14,7 @@ keywords: machine learning, geometry
 ---
 
 <div class="container2">
-<h4><a name="Research Topics"></a>Research Topics</h4>
+<font color="black"><a name="Research Topics"></a>Research Topics</font>
 <ul>
     <li>Machine Learning</li>
     <li>Non-Convex Optimization</li>
