@@ -17,9 +17,9 @@ keywords: machine learning, geometry
 <h4><a name="Research Topics"></a>Research Topics</h4>
 <ul><font size="3" face="Georgia">
     <li>Machine Learning</li>
-    <li>Non-Convex Optimization</li>
-    <li>Optimization on Manifolds</li>
+    <li>Optimization</li>
     <li>Game Theory</li>
+    <li>Differential Geometry</li>
     </font>
     <!--
     <li>Differential Geometry</li>
