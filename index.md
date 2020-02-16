@@ -54,7 +54,7 @@ keywords: machine learning, geometry
     </li>
     <li> <font size="3" face="Georgia"><a href="https://arxiv.org/abs/1912.04378">Depth-width trade-offs for ReLU networks via Sharkovsky's theorem</a></font>, 
         <br/> <font size="3">with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Ioannis Panageas</font>,
-        <br/> <font size="3" color="maroon">ICLR spotlight 2020, </font> <!--<a href="https://arxiv.org/abs/1912.04378">arXiv</a>,--> <a href="https://www.youtube.com/watch?v=HNQ204BmOQ8">Video</a> (Speaker: Ioannis Panageas, MiFODS Workshop, MIT, Jan 27-29, 2020).
+        <br/> <font size="3" color="maroon">ICLR 2020 (spotlight), </font> <!--<a href="https://arxiv.org/abs/1912.04378">arXiv</a>,--> <a href="https://www.youtube.com/watch?v=HNQ204BmOQ8">Video</a> (Speaker: Ioannis Panageas, MiFODS Workshop, MIT, Jan 27-29, 2020).
     </li>
     <br/>
    <li> <font size="3" face="Georgia"><a href="http://arxiv.org/abs/1906.07772">First-order methods almost always avoid saddle points: the case of vanishing stepsize</a></font>, 
