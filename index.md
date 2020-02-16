@@ -17,8 +17,8 @@ keywords: machine learning, geometry
 ---
 
 <div class="container2">
-<h4><a name="Research interests"></a>Research interests</h4>
-    I am working on non-convex optimization, manifold optimization and game theory, especially their connections to machine learning.
+<h4><a name="Research interests"></a>Research</h4>
+    I am working on non-convex optimization, manifold optimization and game theory, especially their applications in machine learning.
 <!--
 <ul><font size="3" face="Georgia">
     <li>Machine Learning</li>
