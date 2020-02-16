@@ -17,17 +17,17 @@ keywords: machine learning, geometry
 ---
 
 <div class="container2">
-<h4><a name="Research interests"></a>Research Topics</h4>
+<h4><a name="Research interests"></a>Research interests</h4>
+    I am working on non-convex optimization, manifold optimization and game theory, especially their connections to machine learning.
+<!--
 <ul><font size="3" face="Georgia">
     <li>Machine Learning</li>
     <li>Optimization</li>
     <li>Game Theory</li>
     <li>Differential Geometry</li>
     </font>
-    <!--
-    <li>Differential Geometry</li>
--->
 </ul>
+-->
 </div>
 <!--
 #<h4><a name="Education"></a>Education & Work</h4>
