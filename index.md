@@ -7,7 +7,7 @@ keywords: machine learning, geometry
     
 <div class="container1">
     <h4><a name="Welcome"></a>Welcome</h4>
-    <font size="3" face="Georgia">I did my Ph.D in Complex differential geometry at University at Buffalo, advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>
+    <font size="3" face="Georgia">I did my Ph.D in Complex differential geometry at University at Buffalo (SUNY), advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>
         </font>
     Email: @sutd.edu.sg<br/>
     Address: 8 Somapah Rd, Singapore University of Technology and Design, Singapore 487372
