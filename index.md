@@ -10,7 +10,6 @@ keywords: machine learning, geometry
     <font size="3" face="Georgia">I did my Ph.D in Differential Geometry at University at Buffalo (SUNY), advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>. I am now a postdoctoral research fellow at SUTD, supervised by Georgios Piliouras (02/2018-02/2020) and Ioannis Panageas (02/2020-). I got my B.S. in Geophysics at China University of Geosceinces.
         </font>
     <br/>
-    ---
     <h4>Contact</h4>
     <font size="3" face="Georgia">
     Email: @sutd.edu.sg<br/>
