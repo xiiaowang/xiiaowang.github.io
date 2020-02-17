@@ -80,7 +80,7 @@ keywords: machine learning, geometry
        <br/> <font size="3" color="maroon">ICML 2019</font>, <!--<a href="http://arxiv.org/abs/1810.05355">arXiv</a>,--> <a href="https://www.dropbox.com/s/qs9nr6pgycnboy7/poster_ICML_xiao2.pdf?dl=0">Poster</a>, <a href="https://www.dropbox.com/s/fh9j5scf2kaofca/main%20copy.pdf?dl=0">Slides</a>.
     </li>
     <br/>
-    <li><font size="3" face="Georgia"><a href="https://www.dropbox.com/s/oa26if49pnhpixz/main.pdf?dl=0">Kazhdan's property (T) and structure for locally symmetric spaces</a></font>, 
+    <li><font size="3" face="Georgia"><a href="assets/main.pdf">Kazhdan's property (T) and structure for locally symmetric spaces</a></font>, 
         <br/> <font color="maroon">Submitted </font> 
     </li>
 </ul>   
