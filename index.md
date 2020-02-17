@@ -62,7 +62,7 @@ keywords: machine learning, geometry
 <ul>
     <li> <font size="3" face="Georgia"> Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes</font>,
         <br/> <font size="3">with Qi Lei, Sai Ganesh Nagarajan and Ioannis Panageas</font>,
-        <br/> <font size="3" color="maroon">Submitted</font>,
+        <br/> <font size="3" color="maroon">arXiv</font>,
     </li>
     <br/>
     <li> <font size="3" face="Georgia"><a href="https://arxiv.org/abs/1912.04378">Depth-width trade-offs for ReLU networks via Sharkovsky's theorem</a></font>, 
