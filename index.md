@@ -9,7 +9,7 @@ keywords: machine learning, geometry
             <img src="../assets/headshot.jpg"
                   title="Blue Ham" alt="Blue Ham"/></a>
 </div> 
-
+<br/>
 ---       
 <div class="container1">
     <h4><a name="Welcome"></a>Welcome</h4>
