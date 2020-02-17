@@ -58,7 +58,7 @@ keywords: machine learning, geometry
 -->
     
 ---
-<h4><a name="Publications"></a>Publications</h4>
+<h4><a name="Publications"></a>Publication</h4>
 <ul>
     <li> <font size="3" face="Georgia"> Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes</font>,
         <br/> <font size="3">with Qi Lei, Sai Ganesh Nagarajan and Ioannis Panageas</font>,
@@ -102,7 +102,7 @@ keywords: machine learning, geometry
             
    <h4><a name="Service"></a>Service</h4>
     <ul>
-        <li>Conference Review: ICML,WINE,ISAAC</li>
+        <li><font size="3" face="Georgia">Conference Review: ICML,WINE,ISAAC</font></li>
     </ul>
 
 </div>
