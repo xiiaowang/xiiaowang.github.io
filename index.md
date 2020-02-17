@@ -4,14 +4,16 @@ title: X W
 description:   
 keywords: machine learning, geometry
 ---
+<!--
 <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Blue Ham" alt="Blue Ham"/></a>
 </div> 
+-->
 ---       
   <div class="container1">
-    <h4><a name="Welcome"></a>Welcome</h4>
+    <h4><a name="Welcome"></a><img src="../assets/headshot.jpg"> Welcome</h4>
     <font size="3" face="Georgia">I did my Ph.D in Differential Geometry at University at Buffalo (SUNY), advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>. I am now a postdoctoral research fellow at SUTD, supervised by <a href="https://people.sutd.edu.sg/~georgios/">Georgios Piliouras</a> (02/2018-02/2020) and <a href="https://panageas.github.io/">Ioannis Panageas</a> (02/2020-). I got my B.S. in Geophysics at China University of Geosceinces.
         </font>
    
