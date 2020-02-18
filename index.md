@@ -60,7 +60,7 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
-    <li> <font size="3" face="Georgia"> Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes</font>,
+    <li> <font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2002.06768">Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes</a></font>,
         <br/> <font size="3">with Qi Lei, Sai Ganesh Nagarajan and Ioannis Panageas</font>,
         <br/> <font size="3" color="maroon">arXiv</font>.
     </li>
