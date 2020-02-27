@@ -64,6 +64,7 @@ keywords: machine learning, geometry
       <br/> <font size="3">with Ioannis Panageas, Stratis Skoulakis and Antonis Varvitsiotis</font>,
       <br/> <font size="3" color="maroon">arXiv</font>.
      </li> 
+  <br/>
     <li> <font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2002.06768">Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes</a></font>,
         <br/> <font size="3">with Qi Lei, Sai Ganesh Nagarajan and Ioannis Panageas</font>,
         <br/> <font size="3" color="maroon">arXiv</font>.
