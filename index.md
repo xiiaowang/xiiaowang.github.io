@@ -108,7 +108,7 @@ keywords: machine learning, geometry
    <h4><a name="Service"></a>Service</h4>
     <ul>
         <li><font size="3" face="Georgia">Conference Review: ICML,WINE,ISAAC,EC</font></li>
-        <li><font size="3" face="Georgia">Journal Review: Applied Mathematics and Optimization</li> 
+        <li><font size="3" face="Georgia">Journal Review: Applied Mathematics and Optimization</font></li> 
     </ul>
 
 </div>
