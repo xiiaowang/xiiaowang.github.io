@@ -29,7 +29,7 @@ keywords: machine learning, geometry
 ---
 <div class="container2">
 <h4><a name="Research interests"></a>Research</h4>
-    <font size="3" face="Georgia">I am working on non-convex optimization, manifold optimization and machine learning</font>.
+    <font size="3" face="Georgia">I am working on machine learning, non-convex optimization, manifold optimization and game theory</font>.
 <!--
 <ul><font size="3" face="Georgia">
     <li>Machine Learning</li>
@@ -107,7 +107,7 @@ keywords: machine learning, geometry
             
    <h4><a name="Service"></a>Service</h4>
     <ul>
-        <li><font size="3" face="Georgia">Conference Review: ICML,WINE,ISAAC,EC</font></li>
+        <li><font size="3" face="Georgia">Conference Review: ICML,NeurIPS,WINE,ISAAC,EC</font></li>
         <li><font size="3" face="Georgia">Journal Review: Applied Mathematics and Optimization</font></li> 
     </ul>
 
