@@ -82,7 +82,7 @@ keywords: machine learning, geometry
     <br/>
    <li> <font size="3" face="Georgia"><a href="http://arxiv.org/abs/1810.05355">Multiplicative weights update as a distributed constrained optimization algorithm: <br/> converges to second-order stationary points almost always</a></font>, 
        <br/><font size="3">with Ioannis Panageas and Georgios Piliouras</font>,
-       <br/> <font size="3" color="maroon">ICML 2019</font>, <!--<a href="http://arxiv.org/abs/1810.05355">arXiv</a>,--> <a href="https://www.dropbox.com/s/qs9nr6pgycnboy7/poster_ICML_xiao2.pdf?dl=0">Poster</a>, <a href="https://www.dropbox.com/s/fh9j5scf2kaofca/main%20copy.pdf?dl=0">Slides</a>.
+       <br/> <font size="3" color="maroon">ICML 2019</font>, <!--<a href="http://arxiv.org/abs/1810.05355">arXiv</a>,--> <a href="https://www.dropbox.com/s/qs9nr6pgycnboy7/poster_ICML_xiao2.pdf?dl=0">Poster</a>, <a href="https://www.dropbox.com/s/fh9j5scf2kaofca/main%20copy.pdf?dl=0">Slides</a> (Speaker: Xiao Wang).
     </li>
     <br/>
     <li><font size="3" face="Georgia"><a href="assets/main.pdf">Kazhdan's property (T) and structure for locally symmetric spaces</a></font>, 
