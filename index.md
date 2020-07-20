@@ -10,7 +10,7 @@ keywords: machine learning, geometry
 ---    
 
   <div class="container1">
-        <img src="../assets/WechatIMG22321.jpeg" width="250" height="250">
+        <img src="../assets/WechatIMG22321.jpg" width="250" height="250">
   <h4>About</h4>
     <font size="3" face="Georgia">I did my Ph.D in Differential Geometry at University at Buffalo (SUNY), advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>. I am now a postdoctoral research fellow at SUTD, supervised by <a href="https://people.sutd.edu.sg/~georgios/">Georgios Piliouras</a> from 02/2018 to 02/2020, and <a href="https://panageas.github.io/">Ioannis Panageas</a> from 02/2020. I got my B.S. in Geophysics at China University of Geosceinces (Beijing).
         </font>
