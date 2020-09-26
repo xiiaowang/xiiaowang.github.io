@@ -60,6 +60,10 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+    <li> <font size="3" face="Georgia"> Fast convergence of Langevin dynamics on manifold: Geodesics meet log-Sobolev</font>,
+      <br/> <font size="3">with Qi Lei anad Ioannis Panageas</font>,
+      <br/> <font size="3" color="maroon">NeurIPS 2020,</font>
+     </li>
     <li> <font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2002.11323">Convergence to second-order stationarity for non-negative matrix factorization: Provably and concurrently</a></font>,
       <br/> <font size="3">with Ioannis Panageas, Stratis Skoulakis and Antonis Varvitsiotis</font>,
       <br/> <font size="3" color="maroon">arXiv</font>.
