@@ -60,7 +60,7 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
-    <li> <font size="3" face="Georgia"> Fast convergence of Langevin dynamics on manifold: Geodesics meet log-Sobolev</font>,
+    <li> <font size="3" face="Georgia"> <a href="https://https://arxiv.org/abs/2010.05263">Fast convergence of Langevin dynamics on manifold: Geodesics meet log-Sobolev</a></font>,
       <br/> <font size="3">with Qi Lei and Ioannis Panageas</font>,
       <br/> <font size="3" color="maroon">NeurIPS 2020.</font>
      </li>
