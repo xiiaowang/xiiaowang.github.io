@@ -60,6 +60,11 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li> <font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2002.06768">Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes</a></font>,
+        <br/> <font size="3">with Qi Lei, Sai Ganesh Nagarajan and Ioannis Panageas</font>,
+        <br/> <font size="3" color="maroon">AISTATS 2021</font>.
+    </li>
+    <br/>
     <li> <font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2010.05263">Fast convergence of Langevin dynamics on manifold: Geodesics meet log-Sobolev</a></font>,
       <br/> <font size="3">with Qi Lei and Ioannis Panageas</font>,
       <br/> <font size="3" color="maroon">NeurIPS 2020.</font>
@@ -70,11 +75,6 @@ keywords: machine learning, geometry
       <br/> <font size="3" color="maroon">arXiv</font>.
      </li> 
   <br/>
-    <li> <font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2002.06768">Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes</a></font>,
-        <br/> <font size="3">with Qi Lei, Sai Ganesh Nagarajan and Ioannis Panageas</font>,
-        <br/> <font size="3" color="maroon">arXiv</font>.
-    </li>
-    <br/>
     <li> <font size="3" face="Georgia"><a href="https://arxiv.org/abs/1912.04378">Depth-width trade-offs for ReLU networks via Sharkovsky's theorem</a></font>, 
         <br/> <font size="3">with Vaggos Chatziafratis, Sai Ganesh Nagarajan and Ioannis Panageas</font>,
         <br/> <font size="3" color="maroon">ICLR 2020 (spotlight), </font> <!--<a href="https://arxiv.org/abs/1912.04378">arXiv</a>,--> <a href="https://www.youtube.com/watch?v=HNQ204BmOQ8">Video</a> (Speaker: Ioannis Panageas, MiFODS Workshop, MIT, Jan 27-29, 2020).
