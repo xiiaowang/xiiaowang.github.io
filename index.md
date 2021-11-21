@@ -22,9 +22,10 @@ keywords: machine learning, geometry
     <h4>Contact</h4>
     <font size="3" face="Georgia">
     Email: wangxiao@sufe.edu.cn<br/>
-    <!--Address: 8 Somapah Rd, Singapore University of Technology and Design, Singapore 487372.
+    Address: Shanghai University of Finance and Economics
+100 Wudong Road, Shanghai, China, 200433.
         </font>
--->
+
     </div>
 
 ---
