@@ -21,9 +21,10 @@ keywords: machine learning, geometry
 <div class="contact">
     <h4>Contact</h4>
     <font size="3" face="Georgia">
-    Email: xiao_wang@sutd.edu.sg<br/>
-    Address: 8 Somapah Rd, Singapore University of Technology and Design, Singapore 487372.
+    Email: wangxiao@sufe.edu.cn<br/>
+    <!--Address: 8 Somapah Rd, Singapore University of Technology and Design, Singapore 487372.
         </font>
+-->
     </div>
 
 ---
