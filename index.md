@@ -62,6 +62,11 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia"><a href="assets/AdaGrad.pdf">AdaGrad Avoids Saddle Points</a></font>, 
+     <br/><font size="3">with Kimon Antonakopoulos, Panayotis Mertikopoulos and Georgios Piliouras</font>,
+        <br/> <font size="3" color="maroon">ICML 2022</font>. 
+    </li>
+  <br/>
   <li> <font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2204.11407">Accelerated Multiplicative Weights Update Avoids Saddle Points almost always</a></font>,
     <br/> <font size="3">with Yi Feng and Ioannis Panageas</font>,
     <br/> <font size="3" color="maroon">IJCAI 2022</font>.
