@@ -62,6 +62,11 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li> <font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2204.11407">Accelerated Multiplicative Weights Update Avoids Saddle Points almost always</a></font>,
+    <br/> <font size="3">with Yi Feng and Ioannis Panageas</font>,
+    <br/> <font size="3" color="maroon">IJCAI 2022</font>.
+    </li>
+  <br/>
   <li> <font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2109.03974">Constants of Motion: The Antidote to Chaos in Optimization and Game Dynamics</a></font>,
     <br/> <font size="3">with Georgios Piliouras</font>,
     <br/> <font size="3" color="maroon">arXiv</font>.
