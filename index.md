@@ -12,7 +12,7 @@ keywords: machine learning, geometry
   <div class="container1">
         <img src="../assets/WechatIMG22321.jpg" width="250" height="250">
   <h4>About</h4>
-    <font size="3" face="Georgia">I did my Ph.D in Differential Geometry at University at Buffalo (SUNY), advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>. I am now a postdoctoral research fellow at SUTD, supervised by <a href="https://people.sutd.edu.sg/~georgios/">Georgios Piliouras</a> from 02/2018 to 02/2020, and <a href="https://panageas.github.io/">Ioannis Panageas</a> from 02/2020. I got my B.S. in Geophysics at China University of Geosceinces (Beijing). I am an assistant professor of <a href="http://itcs.shufe.edu.cn/">Institute for Theoretical Computer Science at SUFE</a>.
+    <font size="3" face="Georgia">I am an assistant professor of <a href="http://itcs.shufe.edu.cn/">Institute for Theoretical Computer Science at SUFE</a>. Before joining SUFE, I did my postdoc at SUTD under supervision of <a href="https://people.sutd.edu.sg/~georgios/">Georgios Piliouras</a> and <a href="https://panageas.github.io/">Ioannis Panageas</a>.  I got my B.S. from China University of Geosciences (Beijing) and Ph.D in Mathematics from University at Buffalo, advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>.
         </font>
    
 </div>
@@ -31,7 +31,7 @@ keywords: machine learning, geometry
 ---
 <div class="container2">
 <h4><a name="Research interests"></a>Research</h4>
-    <font size="3" face="Georgia">I am working on machine learning, non-convex optimization, manifold optimization and game theory</font>.
+    <font size="3" face="Georgia">I am working on machine learning, optimization on manifolds, and game theory</font>.
 <!--
 <ul><font size="3" face="Georgia">
     <li>Machine Learning</li>
