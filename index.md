@@ -62,7 +62,7 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
-  <li><font size="3" face="Georgia"><a href="assets/AdaGrad.pdf">AdaGrad Avoids Saddle Points</a></font>, 
+  <li><font size="3" face="Georgia"><a href="assets/AdaGrad_Saddles.pdf">AdaGrad Avoids Saddle Points</a></font>, 
      <br/><font size="3">with Kimon Antonakopoulos, Panayotis Mertikopoulos and Georgios Piliouras</font>,
         <br/> <font size="3" color="maroon">ICML 2022</font>. 
     </li>
