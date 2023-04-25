@@ -62,7 +62,7 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
-   <li><font size="3" face="Georgia"><a Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</a></font>,
+   <li><font size="3" face="Georgia"> Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</font>,
      <br/><font size="3">with Ioannis Panageas, Efstratios Panteleimon Skoulakis, Luca Viano and Volkan Cevher</font>,
         <br/> <font size="3" color="maroon">ICML 2023 (Oral)</font>. 
     </li>
