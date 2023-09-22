@@ -63,7 +63,7 @@ keywords: machine learning, geometry
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
   <li><font size="3" face="Georgia"> On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails</font>
-    <br/><font size="3">with Yi Feng, Hu Fu, Qun Hu, Ping Li and Bo Peng</font>,
+    <br/><font size="3">with Yi Feng, Hu Fu, Qun Hu, Ping Li, Ioannis Panageas and Bo Peng</font>,
     <br/><font size="3" color="maroon">NeurIPS 2023</font>.
   </li>
   <br/>
