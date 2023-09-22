@@ -62,6 +62,11 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia"> On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails</font>
+    <br/><font size="3">with Yi Feng, Hu Fu, Qun Hu, Ping Li and Bo Peng</font>,
+    <br/><font size="3" color="maroon">NeurIPS 2023</font>.
+  </li>
+  <br/>
    <li><font size="3" face="Georgia"> Embedding Surfaces by Optimizing Neural Networks with Prescribed Riemannian Metric and Beyond</font>,
      <br/><font size="3">with Yi Feng, Sizhe Li, and Ioannis Panageas</font>,
         <br/> <font size="3" color="maroon">ICML 2023 Workshop Frontiers4LCD</font>. 
