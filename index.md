@@ -62,6 +62,11 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia">	Riemannian Accelerated Zeroth-order Algorithm: Improved Robustness and Lower Query Complexity </font>
+    <br/><font size="3">with Chang He, Zhaoye Pan and Bo Jiang</font>,
+    <br/><font size="3" color="maroon">ICML 2024</font>.
+  </li>
+  <br/>
   <li><font size="3" face="Georgia"> <a href="https://arxiv.org/pdf/2310.02604.pdf">On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails</a></font>
     <br/><font size="3">with Yi Feng, Hu Fu, Qun Hu, Ping Li, Ioannis Panageas and Bo Peng</font>,
     <br/><font size="3" color="maroon">NeurIPS 2023</font>.
