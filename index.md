@@ -62,7 +62,7 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
-  <li><font size="3" facs="Georgia"> Prediction Accuracy of Learning in Games : Follow-the-Regularized-Leader meets Heisenberg</font>
+  <li><font size="3" face="Georgia"> Prediction Accuracy of Learning in Games : Follow-the-Regularized-Leader meets Heisenberg</font>
     <br/><font size="3">with Yi Feng and Georgios Piliouras</font>,
     <br/><font size="3" color="maroon">ICML 2024</font>.
   </li>
