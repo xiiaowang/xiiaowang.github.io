@@ -148,7 +148,7 @@ keywords: machine learning, geometry
 -->
 <div class="container3">
 <h4><a name="Students"></a>Students</h4>
-<font size="3" face="Georgia"><a href="https://sites.google.com/view/yifeng95524/%E9%A6%96%E9%A1%B5">Yi Feng, Ph.D</font>
+<font size="3" face="Georgia"><a href="https://sites.google.com/view/yifeng95524/%E9%A6%96%E9%A1%B5">Yi Feng</a>, Ph.D</font>
 
   </div>
 ---
