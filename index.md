@@ -62,17 +62,17 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
-  <li><font size="3" face="Georgia"> Prediction Accuracy of Learning in Games : Follow-the-Regularized-Leader meets Heisenberg</font>
+  <li><font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2406.10603">Prediction Accuracy of Learning in Games : Follow-the-Regularized-Leader meets Heisenberg</a></font>
     <br/><font size="3">with Yi Feng and Georgios Piliouras</font>,
     <br/><font size="3" color="maroon">ICML 2024</font>.
   </li>
   <br/>
-  <li><font size="3" face="Georgia">	Riemannian Accelerated Zeroth-order Algorithm: Improved Robustness and Lower Query Complexity </font>
+  <li><font size="3" face="Georgia">	<a href="https://arxiv.org/abs/2405.05713">Riemannian Accelerated Zeroth-order Algorithm: Improved Robustness and Lower Query Complexity</a></font>
     <br/><font size="3">with Chang He, Zhaoye Pan and Bo Jiang</font>,
     <br/><font size="3" color="maroon">ICML 2024</font>.
   </li>
   <br/>
-  <li><font size="3" face="Georgia">Last-iterate Convergence Separation between Extra-gradient and Optimisim in Constrained Periodic Game </font>
+  <li><font size="3" face="Georgia"><a href="https://arxiv.org/abs/2406.10605">Last-iterate Convergence Separation between Extra-gradient and Optimisim in Constrained Periodic Game </a></font>
     <br/><font size="3">with Yi Feng, Ping Li and Ioannis Panageas</font>,
     <br/><font size="3" color="maroon">UAI 2024</font>.
   </li>
