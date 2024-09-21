@@ -151,7 +151,7 @@ keywords: machine learning, geometry
 <h4><a name="Students"></a>Students</h4>
   <font size="3" face="Georgia"> Weiming Ou, Ph.D</font>
   <br/>
-<font size="3" face="Georgia"><a href="https://sites.google.com/view/yifeng95524/home">Yi Feng</a>, Ph.D</font>
+<font size="3" face="Georgia"><a href="https://sites.google.com/view/yifeng95524/home">Yi Feng</a>, Ph.D, visiting LIONS@EPFL</font>
 
   </div>
 ---
