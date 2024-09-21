@@ -148,10 +148,10 @@ keywords: machine learning, geometry
    1. Kazhdan's property (T) and structure for locally symmetric spaces [PDF]({{ BASE_PATH }}/assets/main.pdf)
 -->
 <div class="container3">
-<h4><a name="Students"></a>Students</h4>
-  <font size="3" face="Georgia"> Weiming Ou, Ph.D</font>
+<h4><a name="Students"></a>Ph.D Students</h4>
+  <font size="3" face="Georgia"> Weiming Ou, Fall 2023-present</font>
   <br/>
-<font size="3" face="Georgia"><a href="https://sites.google.com/view/yifeng95524/home">Yi Feng</a>, Ph.D, visiting LIONS@EPFL</font>
+<font size="3" face="Georgia"><a href="https://sites.google.com/view/yifeng95524/home">Yi Feng</a>, Fall 2021-present, visiting LIONS@EPFL</font>
 
   </div>
 ---
