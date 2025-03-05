@@ -12,7 +12,7 @@ keywords: machine learning, geometry
   <div class="container1">
         <img src="../assets/WechatIMG22321.jpg" width="250" height="250">
   <h4>About</h4>
-    <font size="3" face="Georgia">I am an assistant professor of <a href="http://itcs.shufe.edu.cn/">Institute for Theoretical Computer Science at SUFE</a>. Before joining SUFE, I did my postdoc at SUTD under supervision of <a href="https://people.sutd.edu.sg/~georgios/">Georgios Piliouras</a> and <a href="https://panageas.github.io/">Ioannis Panageas</a>.  I got my B.S. from China University of Geosciences (Beijing) and Ph.D in Mathematics from University at Buffalo, advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>.
+    <font size="3" face="Georgia">I am an (non-tenured) associate professor of <a href="http://itcs.shufe.edu.cn/">Institute for Theoretical Computer Science at SUFE</a>. Before joining SUFE, I did my postdoc at SUTD under supervision of <a href="https://people.sutd.edu.sg/~georgios/">Georgios Piliouras</a> and <a href="https://panageas.github.io/">Ioannis Panageas</a>.  I got my B.S. from China University of Geosciences (Beijing) and Ph.D in Mathematics from University at Buffalo, advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>.
         </font>
    
 </div>
