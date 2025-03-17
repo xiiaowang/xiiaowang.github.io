@@ -73,6 +73,11 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2502.19210">Langevin Multiplicative Weights Update with Applications in Portfolio Management</a></font>
+    <br/><font size="3">with Yi Feng and Tian Xie</font>,
+    <br/><font size="3" color="maroon">AAAI 2025</font>.
+  </li>
+  <br/>
   <li><font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2406.10603">Prediction Accuracy of Learning in Games : Follow-the-Regularized-Leader meets Heisenberg</a></font>
     <br/><font size="3">with Yi Feng and Georgios Piliouras</font>,
     <br/><font size="3" color="maroon">ICML 2024</font>.
