@@ -65,7 +65,7 @@ keywords: machine learning, geometry
 <div class="container2">
 <h4><a name="Teaching"></a>Teaching</h4>
     <font size="3" face="Georgia">Linear Algebra (Pilot class)</font>.
-    <br/> <font size="3"><a href="assets/L1.pdf">Lecture 1</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L2.pdf">Lecture 2</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L3.pdf">Lecture 3</a></font>
+    <br/> <font size="3"><a href="assets/L1.pdf">Lecture 1</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L2.pdf">Lecture 2</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L3.pdf">Lecture 3</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L4.pdf">Lecture 4</a></font>
 </div>
 
 
