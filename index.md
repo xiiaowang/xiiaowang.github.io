@@ -73,6 +73,10 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia"> <a>Continuous-Time Analysis of Heavy Ball Momentum in Min-Max Games</a></font>
+    <br/><font size="3">with Yi Feng, Kaito Fujii, Stratis Skoulakis, and Volkan Cevher</font>,
+    <br/><font size="3" color="maroon">ICML 2025</font>.
+  </li>
   <li><font size="3" face="Georgia"> <a href="https://arxiv.org/abs/2502.19210">Langevin Multiplicative Weights Update with Applications in Portfolio Management</a></font>
     <br/><font size="3">with Yi Feng and Tian Xie</font>,
     <br/><font size="3" color="maroon">AAAI 2025</font>.
