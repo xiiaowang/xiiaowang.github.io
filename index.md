@@ -64,6 +64,8 @@ keywords: machine learning, geometry
 ---
 <div class="container2">
 <h4><a name="Teaching"></a>Teaching</h4>
+  <font size="3" face="Georgia">Fall 2025: Optimization on Manifolds (Graduate)</font>.
+  <br/> <font size="3"><a href="assets/curves.pdf">1:Curves and Surfaces</a></font>
     <font size="3" face="Georgia">Spring 2025: Linear Algebra (Pilot class)</font>.
     <br/> <font size="3"><a href="assets/L1.pdf">1:Vectors and Matrices</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L2.pdf">2:Linear Transformations and Matrix Algebra</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L3.pdf">3:Theory of Linear Systems</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L4.pdf">4:Vector Spaces and Dimension</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L5.pdf">5:Change of Basis and Orthogonality</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L6.pdf">6:Determinant</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L7.pdf">7:Eigenvalues and Eigenvectors</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L8.pdf">8:Quadratic Forms</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L9.pdf">9:Difference and Differential Equations</a></font>
 </div>
