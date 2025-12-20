@@ -75,12 +75,17 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia"> <a>Last-iterate Convergence of Heterogeneous Learning in Time-Varying Zero-Sum Games</a></font>
+    <br/><font size="3">with Junyue Zhang, Xinxiang Guo, Yi Feng and Yifen Mu</font>,
+    <br/><font size="3" color="maroon">AAMAS 2026</font>.
+  </li>
+  <br/>
   <li><font size="3" face="Georgia"> <a>On Perturbed Natural Adaptive Gradient Descent and its Applications in Portfolio Optimization</a></font>
     <br/><font size="3">with Y. Cai, H. Liang, Y. Qiu, T. Xie, and Z. Zhao</font>,
     <br/><font size="3" color="maroon">ECAI 2025</font>.
   </li>
   <br/>
-  <li><font size="3" face="Georgia"> <a>Continuous-Time Analysis of Heavy Ball Momentum in Min-Max Games</a></font>
+  <li><font size="3" face="Georgia"> <a href="https://arxiv.org/pdf/2505.19537">Continuous-Time Analysis of Heavy Ball Momentum in Min-Max Games</a></font>
     <br/><font size="3">with Yi Feng, Kaito Fujii, Stratis Skoulakis, and Volkan Cevher</font>,
     <br/><font size="3" color="maroon">ICML 2025</font>.
   </li>
