@@ -64,8 +64,9 @@ keywords: machine learning, geometry
 ---
 <div class="container2">
 <h4><a name="Teaching"></a>Teaching</h4>
-  <font size="3" face="Georgia">Spring 2024: Theory of Optimization (Graduate)</font>.
-  <br/> The course will be based on the <font size="3"><a href="https://panageas.github.io/optml2021/">notes</a> by  Yannis Panageas and the <font size="3"><a href="https://www.nicolasboumal.net/book/">textbook</a> by Nicolas Boumal</font>
+  <font size="3" face="Georgia">Spring 2026: Theory of Optimization (Graduate). The course will be based on the <font size="3"><a href="https://panageas.github.io/optml2021/">notes</a> by  Yannis Panageas and the <font size="3"><a href="https://www.nicolasboumal.net/book/">textbook</a> by Nicolas Boumal</font>
+    <br/>
+    <font size="3" face="Georgia">Spring 2026: Linear Algebra (Pilot class)</font>.
     <br/>
   <font size="3" face="Georgia">Fall 2025: Optimization on Manifolds (Graduate)</font>.
   <br/> <font size="3"><a href="assets/curves.pdf">1:Curves and Surfaces</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/Manifold.pdf">2:Differentiable Manifolds and Mappings</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/RG.pdf">3:Riemannian Geometry</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/homology.pdf">4:Simplicial and Persistent Homology</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/gradients.pdf">5:Riemannian Gradient and Newton's Methods</a></font>
