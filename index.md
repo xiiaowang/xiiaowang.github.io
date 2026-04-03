@@ -186,6 +186,8 @@ keywords: machine learning, geometry
 -->
 <div class="container3">
 <h4><a name="Students"></a>Ph.D Students</h4>
+  <font size="3" face="Georgia"> Pingfan Wu, Fall 2025-present</font>
+  <br/>
   <font size="3" face="Georgia"> Weiming Ou, Fall 2023-present</font>
   <br/>
 <font size="3" face="Georgia"><a href="https://sites.google.com/view/yifeng95524/home">Yi Feng</a>, Fall 2021-Spring 2025, DDSA Postdoc Fellow at Danish Data Science Academy, Denmark</font>
