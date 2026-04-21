@@ -79,6 +79,11 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia"> <a>Heterogeneous Learning Mechanisms in Zero-Sum Games: From Best-Iterate to Last-Iterate Convergence</a></font>
+    <br/><font size="3">with Xinxiang Guo, Junyue Zhang, Yifen Mu and Ioannis Panageas</font>,
+    <br/><font size="3" color="maroon">IFAC 2026</font>.
+  </li>
+  <br/>
   <li><font size="3" face="Georgia"> <a>Last-iterate Convergence of Heterogeneous Learning in Time-Varying Zero-Sum Games</a></font>
     <br/><font size="3">with Junyue Zhang, Xinxiang Guo, Yi Feng and Yifen Mu</font>,
     <br/><font size="3" color="maroon">AAMAS 2026</font>.
