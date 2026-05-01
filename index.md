@@ -76,7 +76,9 @@ keywords: machine learning, geometry
 
 ---
 <h4><a name="News"></a>News</h4>
-
+<div class="container2">
+<font size="3" face="Georgia">5.1.2026: Four submissions rejected by ICML, including one desk reject.</font>
+</div>
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
