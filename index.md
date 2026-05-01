@@ -79,6 +79,11 @@ keywords: machine learning, geometry
 ---
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia"> <a>Understanding Dynamics of Adam in Zero-Sum Games: An ODE Approach</a></font>
+    <br/><font size="3">with Yi Feng and Weiming Ou</font>,
+    <br/><font size="3" color="maroon">ICML 2026</font>.
+  </li>
+  <br/>
   <li><font size="3" face="Georgia"> <a>Heterogeneous Learning Mechanisms in Zero-Sum Games: From Best-Iterate to Last-Iterate Convergence</a></font>
     <br/><font size="3">with Xinxiang Guo, Junyue Zhang, Yifen Mu and Ioannis Panageas</font>,
     <br/><font size="3" color="maroon">International Federation of Automatic Control (IFAC 2026)</font>.
