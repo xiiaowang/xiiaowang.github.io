@@ -75,11 +75,12 @@ keywords: machine learning, geometry
 </div>
 
 ---
-<h4><a name="News"></a>News</h4>
 <div class="container2">
+<h4><a name="News"></a>News</h4>
 <font size="3" face="Georgia">5.1.2026: Four submissions rejected by ICML, including one desk reject.</font>
 </div>
 ---
+
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
   <li><font size="3" face="Georgia"> <a>Understanding Dynamics of Adam in Zero-Sum Games: An ODE Approach</a></font>
