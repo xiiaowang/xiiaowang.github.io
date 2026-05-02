@@ -67,11 +67,14 @@ keywords: machine learning, geometry
   <font size="3" face="Georgia">Spring 2026: Theory of Optimization (Graduate)</font>. <font size="3" face="Georgia">The course will be based on the <a href="https://panageas.github.io/optml2021/">notes</a> by  Yannis Panageas and the <a href="https://www.nicolasboumal.net/book/">textbook</a> by Nicolas Boumal</font>
     <br/>
     <font size="3" face="Georgia">Spring 2026: Linear Algebra (Pilot class)</font>.
+  <br/> <font size="3"><a href="assets/w1.pdf">1:Vectors and Linear Spaces</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/w2.pdf">2:Matrix and Matrix Algebra</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/w3.pdf">3:Theory of Linear Systems</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/w4.pdf">4:Linear Independence and Basis</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/w5.pdf">5:Orthogonality and Linear Transformations</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/w6.pdf">6:Determinant</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/w7.pdf">7:Eigenvalues and Eigenvectors</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/w8.pdf">8:Review 1</a></font>
     <br/>
   <font size="3" face="Georgia">Fall 2025: Optimization on Manifolds (Graduate)</font>.
   <br/> <font size="3"><a href="assets/curves.pdf">1:Curves and Surfaces</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/Manifold.pdf">2:Differentiable Manifolds and Mappings</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/RG.pdf">3:Riemannian Geometry</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/homology.pdf">4:Simplicial and Persistent Homology</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/gradients.pdf">5:Riemannian Gradient and Newton's Methods</a></font>
     <br/> <font size="3" face="Georgia">Spring 2025: Linear Algebra (Pilot class)</font>.
+  <!--
     <br/> <font size="3"><a href="assets/L1.pdf">1:Vectors and Matrices</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L2.pdf">2:Linear Transformations and Matrix Algebra</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L3.pdf">3:Theory of Linear Systems</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L4.pdf">4:Vector Spaces and Dimension</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L5.pdf">5:Change of Basis and Orthogonality</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L6.pdf">6:Determinant</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L7.pdf">7:Eigenvalues and Eigenvectors</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L8.pdf">8:Quadratic Forms</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/L9.pdf">9:Difference and Differential Equations</a></font>
+  -->
 </div>
 
 ---
