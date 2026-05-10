@@ -84,6 +84,7 @@ keywords: machine learning, geometry
   <font size="3"><a href="assets/w8.pdf">8:Review 1</a></font> &nbsp;&nbsp;
   <br/>
    <font size="3"><a href="assets/kep1.pdf">Conics and Quadratic Forms in Kepler and Newton</a></font> &nbsp;&nbsp;
+  <br/>
    <font size="3"><a href="assets/w9.pdf">Quadratic Forms</a></font> &nbsp;&nbsp;
     <br/>
   <font size="3" face="Georgia">Fall 2025: Optimization on Manifolds (Graduate)</font>.
