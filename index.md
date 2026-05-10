@@ -85,7 +85,7 @@ keywords: machine learning, geometry
   <br/>
    <font size="3"><a href="assets/kep1.pdf">Conics and Quadratic Forms in Kepler and Newton</a></font> &nbsp;&nbsp;
   <br/>
-   <font size="3"><a href="assets/w9.pdf">Quadratic Forms</a></font> &nbsp;&nbsp;
+   <font size="3"><a href="assets/w9.pdf">9:Quadratic Forms</a></font> &nbsp;&nbsp;
     <br/>
   <font size="3" face="Georgia">Fall 2025: Optimization on Manifolds (Graduate)</font>.
   <br/> <font size="3"><a href="assets/curves.pdf">1:Curves and Surfaces</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/Manifold.pdf">2:Differentiable Manifolds and Mappings</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/RG.pdf">3:Riemannian Geometry</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/homology.pdf">4:Simplicial and Persistent Homology</a></font> &nbsp;&nbsp; <font size="3"><a href="assets/gradients.pdf">5:Riemannian Gradient and Newton's Methods</a></font>
