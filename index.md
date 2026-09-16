@@ -106,6 +106,12 @@ keywords: machine learning, geometry
 
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia"> <a href="http://arxiv.org/abs/2609.12590">Tight Sampling Complexity with stochastic gradient oracles in Fixed
+  Dimensions</a></font>
+    <br/><font size="3">with Weiming Ou</font>,
+    <br/><font size="3" color="maroon">arxiv</font>.
+  </li>
+  <br/>
   <li><font size="3" face="Georgia"> <a href="https://arxiv.org/pdf/2609.03990">Heavy-Tailed First-Order Optimization for Polyak-Łojasiewicz
 Condition: High-Dimensional Minimax Bounds, High-Probability
 Guarantee, and Fixed-Dimensional Improvements</a></font>
