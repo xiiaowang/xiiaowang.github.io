@@ -106,6 +106,16 @@ keywords: machine learning, geometry
 
 <h4><a name="Publications"></a>Publication</h4>
 <ul>
+  <li><font size="3" face="Georgia"> <a>Payoff-Aware Prediction of Population Game Dynamics</a></font>
+    <br/><font size="3">with Kang Wang and Renzhe Xu</font>,
+    <br/><font size="3" color="maroon">NeurIPS 2026</font>.
+  </li>
+  <br/>
+  <li><font size="3" face="Georgia"> <a>Rectifying Categorical Flows on Statistical Manifolds for One-Step Generation</a></font>
+    <br/><font size="3">with Xiaohuan Jia, Renzhe Xu, Jiayun Wu and Shaohua Fan</font>,
+    <br/><font size="3" color="maroon">NeurIPS 2026</font>.
+  </li>
+  <br/>
   <li><font size="3" face="Georgia"> <a href="http://arxiv.org/abs/2609.12590">Tight Sampling Complexity with stochastic gradient oracles in Fixed
   Dimensions</a></font>
     <br/><font size="3">with Weiming Ou</font>,
