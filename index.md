@@ -116,6 +116,12 @@ keywords: machine learning, geometry
     <br/><font size="3" color="maroon">NeurIPS 2026</font>.
   </li>
   <br/>
+  <li><font size="3" face="Georgia"> <a href="http://arxiv.org/abs/2609.32729">Revisiting AdaGrad in Stochastic Convex Optimization: Last Iterates,
+  High Probability, and Lower Bounds</a></font>
+    <br/><font size="3">with Weiming Ou</font>,
+    <br/><font size="3" color="maroon">arxiv</font>.
+  </li>
+  <br/>
   <li><font size="3" face="Georgia"> <a href="http://arxiv.org/abs/2609.12590">Tight Sampling Complexity with stochastic gradient oracles in Fixed
   Dimensions</a></font>
     <br/><font size="3">with Weiming Ou</font>,
