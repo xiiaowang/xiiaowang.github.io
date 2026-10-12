@@ -65,6 +65,7 @@ keywords: machine learning, geometry
 <div class="container2">
 <h4><a name="Teaching"></a>Teaching</h4>
   <font size="3" face="Georgia">Fall 2026: Mathematical Foundation for AI (Undergrad)</font>. 
+  <br/> AI generated course companion:
     <br/><font size="3"><a href="pages/ACT_Dynamical_Systems_Visual_Atlas.html">Dynamical Systems</a></font> &nbsp;&nbsp; 
   <br/>
   
