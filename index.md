@@ -65,11 +65,9 @@ keywords: machine learning, geometry
 <div class="container2">
 <h4><a name="Teaching"></a>Teaching</h4>
   <font size="3" face="Georgia">Fall 2026: Mathematical Foundation for AI (Undergrad)</font>. 
-  <br/> AI generated course companion:
+  <br/> <font size="3" face="Georgia">AI generated course companion:</font>
   <br/><font size="3"><a href="pages/ACT_Diffusion_Noise_to_Shape.html">Diffusion</a></font> &nbsp;&nbsp; 
-  
-  <br/>
-    <br/><font size="3"><a href="pages/ACT_Dynamical_Systems_Visual_Atlas.html">Dynamical Systems</a></font> &nbsp;&nbsp; 
+  <br/><font size="3"><a href="pages/ACT_Dynamical_Systems_Visual_Atlas.html">Dynamical Systems</a></font> &nbsp;&nbsp; 
   <br/>
   
   <font size="3" face="Georgia">Spring 2026: Theory of Optimization (Graduate)</font>. <font size="3" face="Georgia">The course will be based on the <a href="https://panageas.github.io/optml2021/">notes</a> by  Yannis Panageas and the <a href="https://www.nicolasboumal.net/book/">textbook</a> by Nicolas Boumal</font>
