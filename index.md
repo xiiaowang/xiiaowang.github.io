@@ -33,7 +33,7 @@ keywords: machine learning, geometry
 <h4><a name="Research interests"></a>Research</h4>
     <font size="3" face="Georgia">I am working on machine learning, optimization on manifolds, and game theory</font>.
 <br/>
-  <font size="3" face="Georgia">The <a href="pages/ACT_Research_Scope_and_Team.html">act</a> (Algorithmic Creativity Team) is a research group that offers interdisciplinary research projects for undergraduates led by master’s and Ph.D. students</font>. Currently we are working on robotics, data for AI, visualization and art.
+  <font size="3" face="Georgia">The <a href="pages/ACT_Research_Scope_and_Team.html">act</a> (Algorithmic Creativity Team) is a research group that offers interdisciplinary research projects for undergraduates led by master’s and Ph.D. students. Currently we are working on robotics, data for AI, visualization and art.</font>
   <!--
 <ul><font size="3" face="Georgia">
     <li>Machine Learning</li>
