@@ -10,7 +10,7 @@ a.act-logo:visited {
   display: inline-block;
   font-family: Inter, "Segoe UI", Georgia, sans-serif;
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 400;
   font-style: normal;
   line-height: 1;
   letter-spacing: -0.07em;
@@ -20,7 +20,7 @@ a.act-logo:visited {
 }
 
 a.act-logo:hover {
-  color: #352a47;
+  color: #666666;
   background: transparent;
   text-decoration: none;
 }
