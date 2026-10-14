@@ -3,6 +3,31 @@ layout: frontpage
 title: X W
 description:   
 keywords: machine learning, geometry
+<style>
+a.act-logo,
+a.act-logo:visited {
+  display: inline-block;
+  font-family: Inter, "Segoe UI", Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: -0.07em;
+  color: #352a47;
+  text-decoration: none;
+  vertical-align: baseline;
+}
+
+a.act-logo:hover {
+  color: #352a47;
+  background: transparent;
+  text-decoration: none;
+}
+
+.act-logo__dot {
+  color: #0088cc;
+}
+</style>
 ---
   <div class="welcome">
         <h4><a name="Welcome"></a><!--<img src="../assets/webpage.jpg" width="150" height="200">--> Welcome</h4>
