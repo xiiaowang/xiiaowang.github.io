@@ -3,6 +3,7 @@ layout: frontpage
 title: X W
 description:   
 keywords: machine learning, geometry
+---
 <style>
 a.act-logo,
 a.act-logo:visited {
@@ -28,7 +29,6 @@ a.act-logo:hover {
   color: #0088cc;
 }
 </style>
----
   <div class="welcome">
         <h4><a name="Welcome"></a><!--<img src="../assets/webpage.jpg" width="150" height="200">--> Welcome</h4>
         </div>
