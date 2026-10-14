@@ -62,7 +62,7 @@ a.act-logo:hover {
    href="/pages/ACT_Research_Scope_and_Team.html"
    aria-label="Algorithmic Creativity Team">act<span class="act-logo__dot">.</span></a> 
   <br/>
-  <font size="3" face="Georgia">The act is a research group that offers interdisciplinary research projects for undergraduates led by master’s and Ph.D. students. Currently we are working on robotics, data for AI, visualization and art.</font>
+  <font size="3" face="Georgia">The act (Algorithmic Creativity Team) is a research group that offers interdisciplinary research projects for undergraduates led by master’s and Ph.D. students. Currently we are working on robotics, data for AI, visualization and art.</font>
   <!--
 <ul><font size="3" face="Georgia">
     <li>Machine Learning</li>
