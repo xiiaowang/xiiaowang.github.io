@@ -8,7 +8,7 @@ keywords: machine learning, geometry
 a.act-logo,
 a.act-logo:visited {
   display: inline-block;
-  font-family: Inter, "Segoe UI", Arial, sans-serif;
+  font-family: Inter, "Segoe UI", Georgia, sans-serif;
   font-size: 24px;
   font-weight: 700;
   font-style: normal;
