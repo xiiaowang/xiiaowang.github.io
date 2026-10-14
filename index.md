@@ -13,14 +13,14 @@ a.act-logo:visited {
   font-weight: 400;
   font-style: normal;
   line-height: 1;
-  letter-spacing: -0.07em;
-  color: #352a47;
+  letter-spacing: 0.03em;
+  color: #666666;
   text-decoration: none;
   vertical-align: baseline;
 }
 
 a.act-logo:hover {
-  color: #666666;
+  color: #352a47;
   background: transparent;
   text-decoration: none;
 }
