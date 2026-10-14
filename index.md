@@ -37,7 +37,7 @@ a.act-logo:hover {
   <div class="container1">
         <img src="../assets/WechatIMG22321.jpg" width="250" height="250">
   <h4>About</h4>
-    <font size="3" face="Georgia">I am an (non-tenured) associate professor of <a href="http://itcs.shufe.edu.cn/">Institute for Theoretical Computer Science at SUFE</a>. Before joining SUFE, I did my postdoc at SUTD under supervision of <a href="https://people.sutd.edu.sg/~georgios/">Georgios Piliouras</a> and <a href="https://panageas.github.io/">Ioannis Panageas</a>.  I got my B.S. from China University of Geosciences (Beijing) and Ph.D in Mathematics from University at Buffalo, advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>.
+    <font size="3" face="Georgia">I am an (non-tenured) associate professor of <a href="http://itcs.shufe.edu.cn/">Institute for Theoretical Computer Science at SUFE</a>. Before joining SUFE, I did my postdoc at SUTD under supervision of <a href="https://people.sutd.edu.sg/~georgios/">Georgios Piliouras</a> and <a href="https://panageas.github.io/">Ioannis Panageas</a>.  I got my B.S. from China University of Geosciences (Beijing) and Ph.D in Mathematics from University at Buffalo, advised by <a href="http://www.buffalo.edu/cas/math/people/faculty/ramachandran.html">Mohan Ramachandran</a>. From 2026 to 2027, I am serving as Deputy Director (on secondment) of the Department of Development and Planning.
         </font>
    
 </div>
@@ -57,11 +57,12 @@ a.act-logo:hover {
 <div class="container2">
 <h4><a name="Research interests"></a>Research</h4>
     <font size="3" face="Georgia">I am working on machine learning, optimization on manifolds, and game theory</font>.
-<br/>
-   <a class="act-logo"
+---
+<div class="container2">
+   <h4><a class="act-logo"
    href="/pages/ACT_Research_Scope_and_Team.html"
-   aria-label="Algorithmic Creativity Team">act<span class="act-logo__dot">.</span></a> 
-  <br/>
+   aria-label="Algorithmic Creativity Team">act<span class="act-logo__dot">.</span></a></h4> 
+  
   <font size="3" face="Georgia">The act (Algorithmic Creativity Team) is a research group that offers interdisciplinary research projects for undergraduates led by master’s and Ph.D. students. Currently we are working on robotics, data for AI, visualization and art.</font>
   <!--
 <ul><font size="3" face="Georgia">
@@ -101,7 +102,7 @@ a.act-logo:hover {
   <br/><font size="3"><a href="pages/ACT_Dynamical_Systems_Visual_Atlas.html">Dynamical Systems</a></font> &nbsp;&nbsp; 
   <br/>
   
-  <font size="3" face="Georgia">Spring 2026: Theory of Optimization (Graduate)</font>. <font size="3" face="Georgia">The course will be based on the <a href="https://panageas.github.io/optml2021/">notes</a> by  Yannis Panageas and the <a href="https://www.nicolasboumal.net/book/">textbook</a> by Nicolas Boumal</font>
+  <font size="3" face="Georgia">Spring 2026: Theory of Optimization (Graduate)</font>. <font size="3" face="Georgia">The course will be based on the <a href="https://panageas.github.io/optml2021/">notes</a> by Yannis Panageas and the <a href="https://www.nicolasboumal.net/book/">textbook</a> by Nicolas Boumal</font>
     <br/>
     <font size="3" face="Georgia">Spring 2026: Linear Algebra (Pilot class)</font>.
   <br/> <font size="3"><a href="assets/w1.pdf">1:Vectors and Linear Spaces</a></font> &nbsp;&nbsp; 
