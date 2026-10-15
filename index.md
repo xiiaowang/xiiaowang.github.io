@@ -64,7 +64,7 @@ a.act-logo:hover {
    href="/pages/ACT_Research_Scope_and_Team.html"
    aria-label="Algorithmic Creativity Team">act<span class="act-logo__dot">.</span></a></h4> 
   
-  <font size="3" face="Georgia">The <a href="pages/ACT_Research_Scope_and_Team.html"> act (Algorithmic Creativity Team)</a> is a research group that offers interdisciplinary research projects (not publication-oriented). students. Our research is organized around two complementary directions regarding students' backgrounds and interests:</font>
+  <font size="3" face="Georgia">The <a href="pages/ACT_Research_Scope_and_Team.html"> act (Algorithmic Creativity Team)</a> is a research group that offers interdisciplinary research projects (not publication-oriented) to students. Our research is organized around two complementary directions regarding students' backgrounds and interests:</font>
   <br/>
   <br/>
   <ul>
