@@ -67,9 +67,12 @@ a.act-logo:hover {
   <font size="3" face="Georgia">The <a href="pages/ACT_Research_Scope_and_Team.html"> act (Algorithmic Creativity Team)</a> is a research group that offers interdisciplinary research projects (not publication-oriented) for undergraduates led by master’s and Ph.D. students. Our research is organized around two complementary directions regarding students' backgrounds and interests:</font>
   <br/>
   <ul>
-  <li><font size="3" face="Georgia"> <a>MOGA (Make Optimization Great Again): focus on mathematical foundations and mechanisms of AI</a></font>
+  <li><font size="3" face="Georgia"> <a>MOGA</a></font>
+    <br/><font size="3">Make Optimization Great Again: focus on mathematical foundations and mechanisms of AI</font>
   </li>
-    <li><font size="3" face="Georgia"> <a>CoDEX (Control, Data, Economics, and X): focus on applications and interdisciplinary connections</a></font>
+    <br/>
+    <li><font size="3" face="Georgia"> <a>CoDEX</a></font>
+      <br/><font size="3">Control, Data, Economics, and X: focus on applications and interdisciplinary connections</font>
     </li>
   </ul>
   <!--
