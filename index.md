@@ -32,12 +32,24 @@ a.act-logo:hover {
   <div class="welcome">
         <h4><a name="Welcome"></a><!--<img src="../assets/webpage.jpg" width="150" height="200">--> Welcome</h4>
         </div>
- <style>
+<!-- <style>
 details > summary {
   font-size: 1.25rem;
   font-weight: 600;
   cursor: pointer;
   margin: 1em 0;
+}
+</style>
+-->
+
+<style>
+details > summary {
+  cursor: pointer;
+}
+
+details > summary > h4 {
+  display: inline;
+  margin: 0;
 }
 </style>
 ---    
@@ -120,7 +132,7 @@ details > summary {
 <div class="container2">
 <!--<h4><a name="Teaching"></a>Teaching</h4>-->
   <details markdown="1">
-<summary><h4>Teaching</h4></summary>
+<summary><strong>Teaching</strong></summary>
   <font size="3" face="Georgia">Fall 2026: Mathematical Foundation for AI (Undergrad)</font>. 
   <br/> <font size="3" face="Georgia">AI generated course companion:</font>
   <br/><font size="3"><a href="pages/ACT_Diffusion_Noise_to_Shape.html">Diffusion</a></font> &nbsp;&nbsp; 
@@ -170,7 +182,7 @@ details > summary {
 
 <!--<h4><a name="Publications"></a>Publication</h4>-->
 <details markdown="1">
-<summary><h4>Publications</h4></summary>
+<summary><strong>Publications</strong></summary>
 <ul>
   <li><font size="3" face="Georgia"> <a>Payoff-Aware Prediction of Population Game Dynamics</a></font>
     <br/><font size="3">with Kang Wang and Renzhe Xu</font>,
