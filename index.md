@@ -157,7 +157,9 @@ a.act-logo:hover {
 
 ---
 
-<h4><a name="Publications"></a>Publication</h4>
+<!--<h4><a name="Publications"></a>Publication</h4>-->
+<details markdown="1">
+<summary><strong>Publications</strong></summary>
 <ul>
   <li><font size="3" face="Georgia"> <a>Payoff-Aware Prediction of Population Game Dynamics</a></font>
     <br/><font size="3">with Kang Wang and Renzhe Xu</font>,
@@ -298,6 +300,7 @@ Guarantee, and Fixed-Dimensional Improvements</a></font>
         <br/> <font color="maroon">Submitted </font> 
     </li>
 </ul>   
+  </details>
 ---
 <!--
 <h4><a name="Working & Submitted"></a>Working & Submitted</h4>
