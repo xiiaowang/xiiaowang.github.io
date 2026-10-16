@@ -150,11 +150,10 @@ details > summary {
   <br/><font size="3"><a href="pages/ACT_Diffusion_Noise_to_Shape.html">Diffusion</a></font> &nbsp;&nbsp; 
   <br/><font size="3"><a href="pages/ACT_Dynamical_Systems_Visual_Atlas.html">Dynamical Systems</a></font> &nbsp;&nbsp; 
   <br/>  
-  <font size="3" face="Georgia">Spring 2026: Theory of Optimization (Graduate)</font>. <font size="3" face="Georgia">The course will be based on the <a href="https://panageas.github.io/optml2021/">notes</a> by Yannis Panageas and the <a href="https://www.nicolasboumal.net/book/">textbook</a> by Nicolas Boumal</font>
+  <font size="3" face="Georgia">Spring 2026: Theory of Optimization (Graduate).</font> <font size="3" face="Georgia">The course will be based on the <a href="https://panageas.github.io/optml2021/">notes</a> by Yannis Panageas and the <a href="https://www.nicolasboumal.net/book/">textbook</a> by Nicolas Boumal</font>
     <br/>
     <font size="3" face="Georgia">Spring 2026: Linear Algebra (Pilot class).</font>
   <br/> <font size="3"><a href="assets/w1.pdf">1:Vectors and Linear Spaces</a></font> &nbsp;&nbsp; 
-  <br/>
   <font size="3"><a href="assets/w2.pdf">2:Matrix and Matrix Algebra</a></font> &nbsp;&nbsp; 
   <br/>
   <font size="3"><a href="assets/w3.pdf">3:Theory of Linear Systems</a></font> &nbsp;&nbsp; 
