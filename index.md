@@ -44,13 +44,14 @@ details > summary {
 
 <style>
 details > summary {
+  display: list-item;
+  font-family: inherit;
+  font-size: 17.5px;
+  font-weight: bold;
+  line-height: 20px;
+  color: black;
+  margin: 10px 0;
   cursor: pointer;
-}
-
-details > summary > h4 {
-  display: inline;
-  margin: 0;
-}
 </style>
 ---    
 
@@ -173,10 +174,6 @@ details > summary > h4 {
   </details>
 </div>
 
----
-
-<h4><a name="News"></a>News</h4>
-<font size="3" face="Georgia">5.1.2026: Four submissions rejected by ICML, including one desk reject.</font>
 
 ---
 
