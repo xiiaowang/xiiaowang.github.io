@@ -336,7 +336,25 @@ Guarantee, and Fixed-Dimensional Improvements</a></font>
 
   </div>
 ---
+<div class="container">
+<details markdown="1">
+<summary><strong>Visitors Hosted</strong></summary>
 
+- **Victor Shim**, Emeritus Professor of Mechanical Engineering, National University of Singapore — September 2026.
+- **Antonios Varvitsiotis**, Associate Professor of Engineering Systems and Design, Singapore University of Technology and Design — August 2026.
+- **Trung Tuyen Truong**, Professor of Mathematics, University of Oslo — July 2026.
+- **Andrea Paudice**, Assistant Professor of Computer Science, Aarhus University — June 2026.
+- **Yannis Panageas**, Associate Professor of Computer Science, University of California, Irvine — June 2026.
+- **Kaito Fujii**, Senior Lecturer, Kyoto University — June 2026.
+- **Sai Ganesh Nagarajan**, Assistant Professor of Computer Science, University of Southern Denmark — June 2026.
+- **Kang Zhang**, Professor of Computational Media and Arts, The Hong Kong University of Science and Technology (Guangzhou) — December 2025.
+- **Yershat Sapazhanov**, Associate Professor of Applied Mathematics, Narxoz University — November 2025.
+- **Stratis Skoulakis**, Assistant Professor of Computer Science, Aarhus University — March 2025.
+- **Yannis Panageas**, Assistant Professor of Computer Science, University of California, Irvine — January 2025.
+
+</details>
+</div>
+---
 <div class="container">
     <!--
     <h4><a name="News"></a>News</h4>
