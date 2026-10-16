@@ -145,15 +145,14 @@ details > summary {
 <!--<h4><a name="Teaching"></a>Teaching</h4>-->
   <details markdown="1">
 <summary><strong>Teaching</strong></summary>
-  <font size="3" face="Georgia">Fall 2026: Mathematical Foundation for AI (Undergrad)</font>. 
+  <font size="3" face="Georgia">Fall 2026: Mathematical Foundation for AI (Undergrad).</font> 
   <br/> <font size="3" face="Georgia">AI generated course companion:</font>
   <br/><font size="3"><a href="pages/ACT_Diffusion_Noise_to_Shape.html">Diffusion</a></font> &nbsp;&nbsp; 
   <br/><font size="3"><a href="pages/ACT_Dynamical_Systems_Visual_Atlas.html">Dynamical Systems</a></font> &nbsp;&nbsp; 
-  <br/>
-  
+  <br/>  
   <font size="3" face="Georgia">Spring 2026: Theory of Optimization (Graduate)</font>. <font size="3" face="Georgia">The course will be based on the <a href="https://panageas.github.io/optml2021/">notes</a> by Yannis Panageas and the <a href="https://www.nicolasboumal.net/book/">textbook</a> by Nicolas Boumal</font>
     <br/>
-    <font size="3" face="Georgia">Spring 2026: Linear Algebra (Pilot class)</font>.
+    <font size="3" face="Georgia">Spring 2026: Linear Algebra (Pilot class).</font>
   <br/> <font size="3"><a href="assets/w1.pdf">1:Vectors and Linear Spaces</a></font> &nbsp;&nbsp; 
   <br/>
   <font size="3"><a href="assets/w2.pdf">2:Matrix and Matrix Algebra</a></font> &nbsp;&nbsp; 
