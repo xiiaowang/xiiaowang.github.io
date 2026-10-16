@@ -32,6 +32,14 @@ a.act-logo:hover {
   <div class="welcome">
         <h4><a name="Welcome"></a><!--<img src="../assets/webpage.jpg" width="150" height="200">--> Welcome</h4>
         </div>
+ <style>
+details > summary {
+  font-size: 1.25rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin: 1em 0;
+}
+</style>
 ---    
 
   <div class="container1">
