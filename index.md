@@ -154,6 +154,7 @@ details > summary {
     <br/>
     <font size="3" face="Georgia">Spring 2026: Linear Algebra (Pilot class).</font>
   <br/> <font size="3"><a href="assets/w1.pdf">1:Vectors and Linear Spaces</a></font> &nbsp;&nbsp; 
+  <br/>
   <font size="3"><a href="assets/w2.pdf">2:Matrix and Matrix Algebra</a></font> &nbsp;&nbsp; 
   <br/>
   <font size="3"><a href="assets/w3.pdf">3:Theory of Linear Systems</a></font> &nbsp;&nbsp; 
