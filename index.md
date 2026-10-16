@@ -117,7 +117,7 @@ details > summary {
 <div class="container2">
 <!--<h4><a name="Teaching"></a>Teaching</h4>-->
   <details markdown="1">
-<summary><strong>Teaching</strong></summary>
+<summary><h4>Teaching</h4></summary>
   <font size="3" face="Georgia">Fall 2026: Mathematical Foundation for AI (Undergrad)</font>. 
   <br/> <font size="3" face="Georgia">AI generated course companion:</font>
   <br/><font size="3"><a href="pages/ACT_Diffusion_Noise_to_Shape.html">Diffusion</a></font> &nbsp;&nbsp; 
@@ -167,7 +167,7 @@ details > summary {
 
 <!--<h4><a name="Publications"></a>Publication</h4>-->
 <details markdown="1">
-<summary><strong>Publications</strong></summary>
+<summary><h4>Publications</h4></summary>
 <ul>
   <li><font size="3" face="Georgia"> <a>Payoff-Aware Prediction of Population Game Dynamics</a></font>
     <br/><font size="3">with Kang Wang and Renzhe Xu</font>,
