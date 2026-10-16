@@ -128,6 +128,17 @@ details > summary {
 <h4><a name="News"></a>News</h4>
 <font size="3" face="Georgia">5.1.2026: Four submissions rejected by ICML, including one desk reject.</font>
 
+---
+<div class="container3">
+<h4><a name="Students"></a>Ph.D Students</h4>
+  <font size="3" face="Georgia"> Pingfan Wu, Fall 2025-present</font>
+  <br/>
+  <font size="3" face="Georgia"> Weiming Ou, Fall 2023-present</font>
+  <br/>
+<font size="3" face="Georgia"><a href="https://sites.google.com/view/yifeng95524/home">Yi Feng</a>, Fall 2021-Spring 2025, DDSA Postdoc Fellow at Danish Data Science Academy, Denmark</font>
+
+  </div>
+
 
 ---
 <div class="container2">
@@ -321,26 +332,14 @@ Guarantee, and Fixed-Dimensional Improvements</a></font>
     </li>
 </ul>   
   </details>
----
-<!--
-<h4><a name="Working & Submitted"></a>Working & Submitted</h4>
-   1. Kazhdan's property (T) and structure for locally symmetric spaces [PDF]({{ BASE_PATH }}/assets/main.pdf)
--->
-<div class="container3">
-<h4><a name="Students"></a>Ph.D Students</h4>
-  <font size="3" face="Georgia"> Pingfan Wu, Fall 2025-present</font>
-  <br/>
-  <font size="3" face="Georgia"> Weiming Ou, Fall 2023-present</font>
-  <br/>
-<font size="3" face="Georgia"><a href="https://sites.google.com/view/yifeng95524/home">Yi Feng</a>, Fall 2021-Spring 2025, DDSA Postdoc Fellow at Danish Data Science Academy, Denmark</font>
 
-  </div>
 ---
 <div class="container">
 <details markdown="1">
 <summary><strong>Visitors Hosted</strong></summary>
 
-- **Victor Shim**, Emeritus Professor of Mechanical Engineering, National University of Singapore — September 2026.
+- **Vaggos Chatziafratis**, Assistant Professor of Computer Science, UC Santa Cruz — November 2026.
+- **Victor Shim**, Emeritus Professor of Applied Mechanics, National University of Singapore — September 2026.
 - **Antonios Varvitsiotis**, Associate Professor of Engineering Systems and Design, Singapore University of Technology and Design — August 2026.
 - **Trung Tuyen Truong**, Professor of Mathematics, University of Oslo — July 2026.
 - **Andrea Paudice**, Assistant Professor of Computer Science, Aarhus University — June 2026.
