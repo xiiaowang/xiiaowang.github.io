@@ -110,7 +110,10 @@ details > summary {
 #<li>B.S. in Geophysics, China University of Geosciences, 2005-2009</li>
 #</ul>
 -->
+---
 
+<h4><a name="News"></a>News</h4>
+<font size="3" face="Georgia">5.1.2026: Four submissions rejected by ICML, including one desk reject.</font>
 
 
 ---
