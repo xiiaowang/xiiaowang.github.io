@@ -77,7 +77,7 @@ details > summary {
 ---
 <div class="container2">
 <h4><a name="Research interests"></a>Research</h4>
-    <font size="3" face="Georgia">I am working on machine learning, optimization on manifolds, game theory, and Intelligentiae Artificialis Principia Mathematica</font>.
+    <font size="3" face="Georgia">I am working on machine learning, optimization on manifolds, game theory, and intelligentiae artificialis principia mathematica</font>.
   </div>
 ---
 <div class="container2">
